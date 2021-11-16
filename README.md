@@ -16,3 +16,16 @@
 
 
 ![Imatge](./images/actHotels_0001.png)
+
+### Només hi ha branca **```main```**.
+
+
+Cal que cadascun del alumnes crei una nova branca **des de** la branca **```main```**.
+
+1. ```git checkout -b <novaBranca>```
+1. Nom de la nova branca: **```CognomAfegirMevaInformacio```**
+1. Tasques a fer (**cada alumne a la seva branca**)
+    1. Crear una nova pàgina **```HTML```** (**```cognom.html```**) amb la vostra informació.
+    1. Afegir al menu de **```hotels.html```** un enllaç a aquesta nova pàgina **```HTML```**.
+
+        Dins del menú **```Dropdown link```** => **```Sobre nosaltres...```** 
