@@ -1,0 +1,19 @@
+.card-hotel {
+    flex: 1 350px ;
+    padding: 2px 5px 2px 5px;
+    margin-top: 10px;
+}
+
+footer{
+    padding: 10px 10px 0 10px;
+    background-color: orange;
+    margin-bottom: 0px;
+
+}
+
+.btn-reserva{
+    width:100%;
+}
+.col-4{
+    text-align: center;
+}
