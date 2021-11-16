@@ -15,4 +15,4 @@
 ## Estat inicial de la web
 
 
-![Imatge](images\actHotels_0001.png)
+![Imatge](./images/actHotels_0001.png)
