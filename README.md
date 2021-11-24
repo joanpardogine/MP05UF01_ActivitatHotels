@@ -56,3 +56,10 @@ Cal que cadascun del alumnes crei dues branques noves al seu repositori local.
 1. A una branca crearà una pàgina web a un hotel.
 1. A la segona branca crearà una pàgina web a una de les dues accions **```Com funciona```** o **```On puc reservar```**.
 1. I en ambdós casos caldrà, modificar el nav del fitxer **```hotel.html```**.
+
+I com en el **Pas 2**:
+
+Cal que cadascun del alumnes crei un **```pull request```**, per cadascuna de les seves branques a la branca **```main```** des del repositori remot. I si apareix algún conflicte, cal que els resolgui.
+
+Un cop que cada alumne ha creat els dos **```pull request```** de les seves branques al **```main```**, cal que executi el dos **```merge```** que ha creat el seu company.
+D'aquesta manera un alumne crearà dos **```pull request```** de les seves branques i executarà els dos **```merge```** de les dues branques del seu company.
